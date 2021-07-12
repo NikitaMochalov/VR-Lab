@@ -4,7 +4,7 @@
  
 ![Alt-текст](https://github.com/NikitaMochalov/Media-for-Readme/blob/main/Gifs/chemistry-min.gif "Орк")
 
-В итоге работы над проектом была создана лаборатория ИРИТ-РТФ в VR с встроенными реализованными механиками для квест-комнаты.
+В итоге работы над проектом в VR была восоздана лаборатория ИРИТ-РТФ с реализованными механиками для квест-комнаты.
 
 ![Alt-текст](https://github.com/NikitaMochalov/Media-for-Readme/blob/main/Gifs/real-and-vr-min.gif "Орк")
 
